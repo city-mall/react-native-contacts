@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "react-native-simple-contacts@1.0.2",
+      "/Users/apple/Documents/citymall/tl-app"
+    ]
+  ],
+  "_from": "git+https://github.com/gagandesethi/react-native-contact.git",
+  "_id": "react-native-allcontacts@1.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-allcontacts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/gagandesethi/react-native-contact",
+    "rawSpec": "https://github.com/gagandesethi/react-native-contact",
+    "saveSpec": "git+https://github.com/gagandesethi/react-native-contact.git",
+    "fetchSpec": "https://github.com/gagandesethi/react-native-contact.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/gagandesethi/react-native-contact.git#d1d41e76ca7d72b7a038715208005eebe15f17cd",
+  "_spec": "https://github.com/gagandesethi/react-native-contact",
+  "_where": "/Users/apple/Documents/citymall/tl-app",
+  "author": {
+    "name": "Luc Belliveau"
+  },
+  "bugs": {
+    "url": "https://github.com/lucbelliveau/react-native-simple-contacts/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple access to contacts for iOS and Android",
+  "homepage": "https://github.com/lucbelliveau/react-native-simple-contacts#readme",
+  "keywords": [
+    "react-native contacts address addressbook simple phone number"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-allcontacts",
+  "peerDependencies": {
+    "react-native": "^0.45.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucbelliveau/react-native-simple-contacts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
